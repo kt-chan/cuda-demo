@@ -1,0 +1,8 @@
+.cache
+.idea
+.env
+.idea
+.vscode
+/venv/
+/database/
+
