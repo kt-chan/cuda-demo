@@ -2,6 +2,7 @@
 .idea
 .env
 .idea
+.vs
 .vscode
 /venv/
 /database/
